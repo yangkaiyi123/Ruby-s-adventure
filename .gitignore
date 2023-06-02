@@ -1,0 +1,6 @@
+#忽略文件夹下任何文件
+/Library/*
+/Logs/*
+/Packages/*
+/Temp/*
+/UserSettings/*
