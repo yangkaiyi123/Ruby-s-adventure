@@ -57,6 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\RubyController.cs" />
+    <Compile Include="Assets\Scripts\HealthCollectible.cs" />
+    <Compile Include="Assets\Scripts\Damageable.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
